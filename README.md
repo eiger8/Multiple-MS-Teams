@@ -28,7 +28,7 @@ MacOS, Window and Linux
  
 _If you have problems logging in or opening application, please use this commands to clean app profile data_
 
-_**MacOS / Linux:**_
+_**MacOS:**_
 
 `rm -rf ~/Library/ApplicationSupport/softserve-teams-nativefier-*`
 
