@@ -10,7 +10,7 @@ MacOS, Window and Linux
 
 ### HOW TO USE IT
  1. Make sure `npm` is installed on your OS.
- 2. For the script to be able convert icons to the right format install [http://www.imagemagick.org/](ImageMagick)
+ 2. For the script to be able convert icons to the right format install [ImageMagick](http://www.imagemagick.org/) 
  3. Install nativefier by running `npm install -g nativefier`
  4. Now run the script `./Multiple-Teams-{Your-OS}.{Extention}`
  
@@ -26,6 +26,12 @@ MacOS, Window and Linux
  - screen sharing on MacOS host is not working
  - no visual notification of incoming call, ringing only
  
-_If you have problems logging in or opening application, please use this commands to clean app profile data:_
-`rm -rf ~/Library/ApplicationSupport/softserve-teams-nativefier-*` (MacOS / Linux)
-`rm ~\AppData\Roaming\softserve-teams-nativefier-*` (Windows)
+_If you have problems logging in or opening application, please use this commands to clean app profile data_
+
+_**MacOS / Linux:**_
+
+`rm -rf ~/Library/ApplicationSupport/softserve-teams-nativefier-*`
+
+_**Windows:**_
+
+`rm ~\AppData\Roaming\softserve-teams-nativefier-*`
