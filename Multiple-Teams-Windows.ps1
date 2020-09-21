@@ -12,7 +12,5 @@ nativefier --name $app_name `
 --tray `
 --counter `
 --single-instance `
---app-version 0.2.7 `
---app-copyright "Creation of nativefier build script, testing and bug fixing by: Oleksa Oryshchyn <oorys@softserveinc.com>; Andrii Glynianchuk <aglyn@softserveinc.com>; Max Nazarenko <mnaza@softserveinc.com>" `
 --inject ./code.js `
 "https://teams.microsoft.com/_#"
