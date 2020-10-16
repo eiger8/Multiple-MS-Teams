@@ -30,8 +30,8 @@ _If you have problems logging in or opening application, please use this command
 
 _**MacOS:**_
 
-`rm -rf ~/Library/ApplicationSupport/softserve-teams-nativefier-*`
+`rm -rf ~/Library/ApplicationSupport/app_name-nativefier-*`
 
 _**Windows:**_
 
-`rm ~\AppData\Roaming\softserve-teams-nativefier-*`
+`rm ~\AppData\Roaming\app_name-nativefier-*`
